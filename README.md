@@ -95,6 +95,17 @@
 ### • Data Transfer Instructions — Mindluster (December 02, 2023)
 ![Certification](3.png)
 
+<table>
+  <tr>
+    <td><img src="css.png" width="300"/></td>
+    <td><img src="excel.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center">HTML & CSS</td>
+    <td align="center">Excel Fundamentals</td>
+  </tr>
+</table>
+
 ---
 
 ## 🖥 My Setup
