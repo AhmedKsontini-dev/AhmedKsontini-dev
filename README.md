@@ -96,7 +96,7 @@
     <td><img src="excel.png" width="300"/></td>
     <td><img src="excel.png" width="300"/></td>
     <td><img src="css.png" width="300"/></td>
-    <td><img src="3.png" width="300"/></td>
+    <td><img src="data_transfer.png" width="300"/></td>
   </tr>
   <tr>
     <td align="center">Software Developer Certification</td>
