@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Nationality-Tunisia-red?style=flat&logo=flag" />
 </p>
 <p align="center">
-  <strong>I'm <span style="color:#4CAF50;">Ksontini Ahmed</span> — Full-Stack Software Developer</strong> <br>
-  Passionate about building modern, scalable, and impactful digital solutions.
+  <strong>I'm <span style="color:#4CAF50;">Ksontini Ahmed</span>, a motivated and fast-growing software developer. Even though I’m new to the development world, I’ve already built several complete web and mobile projects on my own and gained real experience collaborating directly with clients. I’m highly driven, full of innovative ideas, and always ready to take on new challenges. I love teamwork, continuous learning, and exploring modern technologies to create impactful digital solutions.
 </p>
 
 ---
@@ -21,7 +20,6 @@
 ## 🧑‍💻 About Me
 
 - 🇹🇳 Full-Stack Software Developer  
-- 💼 Freelance developer with multiple satisfied clients  
 - 💡 I love creating powerful mobile & web applications  
 - 📚 Always learning and improving my skills  
 - 🌐 Portfolio:  
