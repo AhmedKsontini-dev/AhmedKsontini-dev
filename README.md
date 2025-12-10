@@ -87,13 +87,13 @@
 ![Certification](certificat-3.png)
 
 ### • Excel Fundamentals — OpenClassroom (May 18, 2023)
-![Certification](certificat-4.png)
+![Certification](excel.png)
 
 ### • HTML & CSS — OpenClassroom (December 18, 2023)
-![Certification](certificat-5.png)
+![Certification](css.png)
 
 ### • Data Transfer Instructions — Mindluster (December 02, 2023)
-![Certification](certificat-6.png)
+![Certification](3.png)
 
 ---
 
