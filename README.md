@@ -5,6 +5,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedksontini-dev&label=Profile+Views&color=brightgreen&style=flat" />
+  <img src="https://img.shields.io/badge/Software%20Developer-FullStack-blue?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Freelancer-Available-success?style=flat&logo=upwork" />
+  <img src="https://img.shields.io/badge/Nationality-Tunisia-red?style=flat&logo=flag" />
+</p>
 
 <p align="center">
   <strong>I'm <span style="color:#4CAF50;">Ksontini Ahmed</span>, a motivated and fast-growing software developer. Even though I’m new to the development world, I’ve already built several complete web and mobile projects on my own and gained real experience collaborating directly with clients. I’m highly driven, full of innovative ideas, and always ready to take on new challenges. I love teamwork, continuous learning, and exploring modern technologies to create impactful digital solutions.
