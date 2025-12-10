@@ -78,9 +78,9 @@
 
 <table>
   <tr>
-    <td><img src="excel.png" width="300"/></td>
-    <td><img src="excel.png" width="300"/></td>
-    <td><img src="excel.png" width="300"/></td>
+    <td><img src="certificat_dev.jpg" width="300"/></td>
+    <td><img src="hackathon.jpg" width="300"/></td>
+    <td><img src="finance.jpg" width="300"/></td>
     <td><img src="excel.png" width="300"/></td>
     <td><img src="css.png" width="300"/></td>
     <td><img src="data_transfer.png" width="300"/></td>
