@@ -75,34 +75,36 @@
 
 ## 📜 Certifications
 
-(*You can replace the images below with real certificate images*)
 
 ### • Software Developer Certification — College de Paris (June 13, 2025)
-![Certification](certificat-1.png)
 
 ### • Intercampus Hackathon — Amilcar University (April 19, 2025)
-![Certification](certificat-2.png)
 
 ### • Finance Law 2024 & RNE — (February 21, 2024)
-![Certification](certificat-3.png)
 
 ### • Excel Fundamentals — OpenClassroom (May 18, 2023)
-![Certification](excel.png)
 
 ### • HTML & CSS — OpenClassroom (December 18, 2023)
-![Certification](css.png)
 
 ### • Data Transfer Instructions — Mindluster (December 02, 2023)
-![Certification](3.png)
+
 
 <table>
   <tr>
-    <td><img src="css.png" width="300"/></td>
     <td><img src="excel.png" width="300"/></td>
+    <td><img src="excel.png" width="300"/></td>
+    <td><img src="excel.png" width="300"/></td>
+    <td><img src="excel.png" width="300"/></td>
+    <td><img src="css.png" width="300"/></td>
+    <td><img src="3.png" width="300"/></td>
   </tr>
   <tr>
-    <td align="center">HTML & CSS</td>
+    <td align="center">Software Developer Certification</td>
+    <td align="center">Intercampus Hackathon</td>
+    <td align="center">Finance Law 2024 & RNE</td>
     <td align="center">Excel Fundamentals</td>
+    <td align="center">HTML & CSS</td>
+    <td align="center">Data Transfer Instructions</td>
   </tr>
 </table>
 
