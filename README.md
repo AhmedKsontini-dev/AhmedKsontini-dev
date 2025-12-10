@@ -5,12 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedksontini-dev&label=Profile+Views&color=brightgreen&style=flat" />
-  <img src="https://img.shields.io/badge/Software%20Developer-FullStack-blue?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Freelancer-Available-success?style=flat&logo=upwork" />
-  <img src="https://img.shields.io/badge/Nationality-Tunisia-red?style=flat&logo=flag" />
-</p>
+
 <p align="center">
   <strong>I'm <span style="color:#4CAF50;">Ksontini Ahmed</span>, a motivated and fast-growing software developer. Even though I’m new to the development world, I’ve already built several complete web and mobile projects on my own and gained real experience collaborating directly with clients. I’m highly driven, full of innovative ideas, and always ready to take on new challenges. I love teamwork, continuous learning, and exploring modern technologies to create impactful digital solutions.
 </p>
@@ -75,20 +70,6 @@
 
 ## 📜 Certifications
 
-
-### • Software Developer Certification — College de Paris (June 13, 2025)
-
-### • Intercampus Hackathon — Amilcar University (April 19, 2025)
-
-### • Finance Law 2024 & RNE — (February 21, 2024)
-
-### • Excel Fundamentals — OpenClassroom (May 18, 2023)
-
-### • HTML & CSS — OpenClassroom (December 18, 2023)
-
-### • Data Transfer Instructions — Mindluster (December 02, 2023)
-
-
 <table>
   <tr>
     <td><img src="excel.png" width="300"/></td>
@@ -99,12 +80,12 @@
     <td><img src="data_transfer.png" width="300"/></td>
   </tr>
   <tr>
-    <td align="center">Software Developer Certification</td>
-    <td align="center">Intercampus Hackathon</td>
-    <td align="center">Finance Law 2024 & RNE</td>
-    <td align="center">Excel Fundamentals</td>
-    <td align="center">HTML & CSS</td>
-    <td align="center">Data Transfer Instructions</td>
+    <td align="center">Software Developer Certification — College de Paris (June 13, 2025)</td>
+    <td align="center">Intercampus Hackathon — Amilcar University (April 19, 2025)</td>
+    <td align="center">Finance Law 2024 & RNE — (February 21, 2024)</td>
+    <td align="center">Excel Fundamentals — OpenClassroom (May 18, 2023)</td>
+    <td align="center">HTML & CSS — OpenClassroom (December 18, 2023)</td>
+    <td align="center">Data Transfer Instructions — Mindluster (December 02, 2023)</td>
   </tr>
 </table>
 
