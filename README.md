@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedksontini-dev&label=Profile+Views&color=brightgreen&style=flat" />
+  
   <img src="https://img.shields.io/badge/Software%20Developer-FullStack-blue?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/Freelancer-Available-success?style=flat&logo=upwork" />
   <img src="https://img.shields.io/badge/Nationality-Tunisia-red?style=flat&logo=flag" />
